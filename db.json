@@ -1,0 +1,19 @@
+{
+    "Tracker": [
+      {
+        "id": 1,
+        "Income": "Salary",
+        "Expense": "Shopping",
+        "Amount": "100",
+        "Date" : "15/04/2023"
+      },
+      {
+        "id": 2,
+        "Income": "Gifts",
+        "Expense": "Bills",
+        "Amount": "200",
+        "Date" : "12/04/2023"
+      }
+    ]
+  }
+  

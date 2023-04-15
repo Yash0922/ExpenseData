@@ -1,0 +1,27 @@
+{
+  "name": "expensedata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yash0922/ExpenseData.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yash0922/ExpenseData/issues"
+  },
+  "homepage": "https://github.com/Yash0922/ExpenseData#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json": "^11.0.0",
+    "json-server": "^0.17.3",
+    "server": "^1.0.38"
+  }
+}
